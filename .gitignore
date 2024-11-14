@@ -1,3 +1,4 @@
 .idea/
 /Models/*
 /Models/glove_s50.zip
+DATA/SUMMARY/train.csv
