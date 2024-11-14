@@ -1,3 +1,3 @@
 .idea/
-/Models/glove_s50.txt
+/Models/*
 /Models/glove_s50.zip
