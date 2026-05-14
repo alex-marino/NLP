@@ -2,3 +2,4 @@
 /Models/*
 /Models/glove_s50.zip
 /DATA/*
+.env
